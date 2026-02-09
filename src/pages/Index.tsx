@@ -746,7 +746,7 @@ const Index = () => {
                 },
                 {
                   title: "Startup Support & Innovation Ecosystem",
-                  description: "At Bioinformatics.lk, we are cultivating Sri Lanka's first bioinformatics startup ecosystem. We empower students and researchers to:\n\n• Turn innovative ideas into marketable products or services\n• Receive mentorship, networking, and funding guidance\n• Launch their own bioinformatics startups from idea to impact"
+                  description: "At Insilico.lk, we are cultivating Sri Lanka's first bioinformatics startup ecosystem. We empower students and researchers to:\n\n• Turn innovative ideas into marketable products or services\n• Receive mentorship, networking, and funding guidance\n• Launch their own bioinformatics startups from idea to impact"
                 }
               ];
 
@@ -1001,7 +1001,7 @@ const Index = () => {
               },
               {
                 name: "Mr. Anuththara Gamage",
-                qualification: "B.Sc Honours, Research Scientist at Standard Seed Corporation",
+                qualification: "B.Sc Honours, Lead Engineering Scientist at Standard Seed Corporation",
                 image: "/lovable-uploads/b42b66f6-f7c5-4932-af71-ccf28ed41fbf.png",
                 url: "https://www.linkedin.com/in/anu-gamage-62192b201/"
               }
@@ -1710,7 +1710,7 @@ const Index = () => {
                 <span className="text-xl font-bold text-white">Insilico.lk</span>
               </div>
               <p className="text-[#EAE3F5]/90 leading-relaxed text-sm md:text-base">
-                Advancing bioinformatics education and research in Sri Lanka through innovative programs and cutting-edge technology.
+                Advancing informatics education and research in Sri Lanka through innovative programs and cutting-edge technology.
               </p>
             </div>
 
@@ -1739,19 +1739,8 @@ const Index = () => {
               <div className="space-y-4">
                 <p className="text-[#EAE3F5]/80 text-sm md:text-base">
                   Email: info@bioinformatics.lk<br />
-                  Phone: +94 11 234 5678
+                  Phone: 0765617680, 0775297815
                 </p>
-                <div className="flex space-x-4">
-                  <a href="#" className="w-10 h-10 bg-purple-600/30 backdrop-blur-sm rounded-full flex items-center justify-center hover:bg-purple-600/50 transition-colors border border-purple-300/30">
-                    <Linkedin className="h-5 w-5" />
-                  </a>
-                  <a href="#" className="w-10 h-10 bg-purple-600/30 backdrop-blur-sm rounded-full flex items-center justify-center hover:bg-purple-600/50 transition-colors border border-purple-300/30">
-                    <Twitter className="h-5 w-5" />
-                  </a>
-                  <a href="#" className="w-10 h-10 bg-purple-600/30 backdrop-blur-sm rounded-full flex items-center justify-center hover:bg-purple-600/50 transition-colors border border-purple-300/30">
-                    <Youtube className="h-5 w-5" />
-                  </a>
-                </div>
               </div>
             </div>
           </div>

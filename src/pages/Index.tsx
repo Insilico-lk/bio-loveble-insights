@@ -1,7 +1,7 @@
 import React, { useState, useEffect, memo } from 'react';
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import { FileText, Youtube, Linkedin, Twitter, FlaskConical, ExternalLink, Dna, Atom, Brain, Network, Computer, Menu, X } from "lucide-react";
+import { FileText, FlaskConical, ExternalLink, Dna, Atom, Brain, Network, Computer, Menu, X } from "lucide-react";
 import { AuthModal } from "@/components/auth/AuthModal";
 import { ContactModal } from "@/components/contact/ContactModal";
 import { SearchBar } from "@/components/search/SearchBar";

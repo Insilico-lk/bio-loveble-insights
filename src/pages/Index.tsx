@@ -427,7 +427,7 @@ const Index = () => {
             >
               <div className="w-8 h-8 flex items-center justify-center">
                 <img 
-                  src="/lovable-uploads/76f3562a-0d90-4bbc-a1b8-640acc56da80.png" 
+                  src="/lovable-uploads/new_logo_insilico.png" 
                   alt="Bioinformatics.lk" 
                   className={`w-8 h-8 object-contain transition-all duration-300 ${
                     isScrolled 

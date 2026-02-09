@@ -428,7 +428,7 @@ const Index = () => {
               <div className="w-8 h-8 flex items-center justify-center">
                 <img 
                   src="/lovable-uploads/new_logo_insilico.png" 
-                  alt="Bioinformatics.lk" 
+                  alt="Insilico.lk" 
                   className={`w-8 h-8 object-contain transition-all duration-300 ${
                     isScrolled 
                       ? 'scale-90 filter brightness-0 saturate-100 invert-20 sepia-100 saturate-2000 hue-rotate-260 brightness-90 contrast-120' 
@@ -439,7 +439,7 @@ const Index = () => {
               <span className={`ml-2 text-lg font-semibold transition-all duration-300 ${
                 isScrolled ? 'text-gray-900' : 'text-white'
               }`}>
-                Bioinformatics.lk
+                Insilico.lk
               </span>
             </motion.div>
 
@@ -612,7 +612,7 @@ const Index = () => {
               
               <div className="relative">
                 <h1 className="animate-on-scroll text-3xl md:text-4xl lg:text-6xl font-bold leading-tight text-left -mt-4">
-                  Accelerating <span className="text-[#EAE3F5] text-4xl md:text-5xl lg:text-7xl">Bioinformatics</span> Innovation
+                  Accelerating <span className="text-[#EAE3F5] text-4xl md:text-5xl lg:text-7xl">Insilico</span> Innovation
               </h1>
                 <p className="animate-on-scroll delay-200 text-lg md:text-xl lg:text-2xl text-[#EAE3F5]/90 leading-relaxed text-left mt-6">
                 Empowering researchers and students in genomics, proteomics, and computational biology through world-class education and cutting-edge research.
@@ -677,7 +677,7 @@ const Index = () => {
             </h2>
             
             <p className="text-lg md:text-xl text-[#54366B] leading-relaxed px-4 md:px-8">
-              Let's shape the future of Bioinformatics and Computational Biology together! At Bioinformatics.lk, we are building a vibrant scientific community that empowers future innovators in genomics, molecular modeling, data science, and more. With free learning resources, collaborative discussions, and the latest breakthroughs, we're here to support your journey to grow, explore, and lead in this rapidly evolving field.
+              Let's shape the future of Bioinformatics and Computational Biology together! At Insilico.lk, we are building a vibrant scientific community that empowers future innovators in genomics, molecular modeling, data science, and more. With free learning resources, collaborative discussions, and the latest breakthroughs, we're here to support your journey to grow, explore, and lead in this rapidly evolving field.
             </p>
 
             <div className="mt-4">
@@ -708,10 +708,10 @@ const Index = () => {
         <div className="container mx-auto px-4 relative z-10">
           <div className="text-center mb-12 md:mb-24">
             <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6 md:mb-10">
-              What We Offer at Bioinformatics.lk
+              What We Offer at Insilico.lk
             </h2>
             <p className="text-lg md:text-xl lg:text-2xl text-[#EAE3F5]/90 max-w-5xl mx-auto leading-relaxed">
-              Join us at Bioinformatics.lk – where innovation meets opportunity, and passion meets purpose. Build your future in the growing world of bioinformatics!
+              Join us at Insilico.lk – where innovation meets opportunity, and passion meets purpose. Build your future in the growing world of informatics!
             </p>
           </div>
 
@@ -833,7 +833,7 @@ const Index = () => {
               Join Our Community
             </motion.button>
             <p className="text-[#EAE3F5]/70 text-sm md:text-base mt-3 md:mt-4">
-              Connect with fellow bioinformatics enthusiasts and stay updated with the latest developments
+              Connect with fellow informatics enthusiasts and stay updated with the latest developments
             </p>
           </div>
         </div>
@@ -1118,7 +1118,7 @@ const Index = () => {
               <h2 className="text-4xl md:text-5xl font-bold text-white text-center">Our Academy</h2>
             </div>
             <p className="text-lg text-gray-300 max-w-4xl mx-auto mt-8">
-              At Bioinformatics.lk Academy, we're revolutionizing science education through our innovative journey-based learning approach! Our passionate mentors guide learners through engaging, self-paced projects aligned with the Sustainable Development Goals (SDGs) from core foundations to cutting-edge paths in Bioinformatics, Cheminformatics, Computational Biology, and AI in Life Sciences. Regular team challenges ignite curiosity, foster collaboration, and build essential skills for the future of healthcare, agriculture, and environmental science.
+              At Insilico.lk Academy, we're revolutionizing science education through our innovative journey-based learning approach! Our passionate mentors guide learners through engaging, self-paced projects aligned with the Sustainable Development Goals (SDGs) from core foundations to cutting-edge paths in Bioinformatics, Cheminformatics, Computational Biology, and AI in Life Sciences. Regular team challenges ignite curiosity, foster collaboration, and build essential skills for the future of healthcare, agriculture, and environmental science.
             </p>
           </div>
           
@@ -1601,7 +1601,7 @@ const Index = () => {
             <div className="inline-block bg-[#C8FFA4] px-6 py-3 rounded-lg mb-4">
               <h2 className="text-3xl md:text-4xl font-bold text-gray-800">Latest News & Updates</h2>
             </div>
-            <p className="text-lg md:text-xl text-gray-600">Stay informed about the latest developments in bioinformatics</p>
+            <p className="text-lg md:text-xl text-gray-600">Stay informed about the latest developments in informatics</p>
           </div>
           
           <div className="grid md:grid-cols-3 gap-6 lg:gap-8">
@@ -1707,7 +1707,7 @@ const Index = () => {
           <div className="grid md:grid-cols-4 gap-6 lg:gap-8">
             <div className="space-y-4">
               <div className="flex items-center">
-                <span className="text-xl font-bold text-white">Bioinformatics.lk</span>
+                <span className="text-xl font-bold text-white">Insilico.lk</span>
               </div>
               <p className="text-[#EAE3F5]/90 leading-relaxed text-sm md:text-base">
                 Advancing bioinformatics education and research in Sri Lanka through innovative programs and cutting-edge technology.
@@ -1757,7 +1757,7 @@ const Index = () => {
           </div>
 
           <div className="border-t border-[#EAE3F5]/20 mt-8 lg:mt-12 pt-6 lg:pt-8 text-center text-[#EAE3F5]/80">
-            <p className="text-sm md:text-base">&copy; 2024 Bioinformatics.lk. All rights reserved. | Privacy Policy | Terms of Service</p>
+            <p className="text-sm md:text-base">&copy; 2024 Insilico.lk. All rights reserved. | Privacy Policy | Terms of Service</p>
           </div>
         </div>
       </footer>
